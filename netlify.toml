@@ -1,0 +1,19 @@
+[[redirects]]
+  from ="/*"
+  to = "/src/Rap.js"
+  status = 200
+
+[[redirects]]
+  from ="/Blog"
+  to = "/src/components/Blog.js"
+  status =200
+
+[[redirects]]
+  from = "/Carrer"
+  to = "/src/components/Carrer.js"
+  status = 200
+
+[[redirects]]
+  from = "/Login"
+  to = "/src/components/Login.js"
+  status = 200

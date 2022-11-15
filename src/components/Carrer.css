@@ -1,0 +1,12 @@
+.pla{
+    border: 1px solid #0b2563;
+    width:10rem;
+    height:4rem;
+    
+}
+.b{
+    border: 1px solid #0b2563;
+    height:4rem;
+    width:10rem;
+}
+.svg_icons { transform:scale(1.8) ; -webkit-transform:scale(1.8) ; -moz-transform:scale(1.8) ; -ms-transform:scale(1.8) ; -o-transform:scale(1.8) ; }

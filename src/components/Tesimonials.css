@@ -1,0 +1,17 @@
+.cac{
+    border: 0.4rem solid #E16154;
+}
+.ani:hover{
+    transform: translateY(-50px) ;
+    -webkit-transform: translateY(-50px) ;
+    -moz-transform: translateY(-50px) ;
+    -ms-transform: translateY(-50px) ;
+    -o-transform: translateY(-50px) ;
+}
+.ash:hover{
+    transform: translateY(50px) ;
+    -webkit-transform: translateY(50px) ;
+    -moz-transform: translateY(50px) ;
+    -ms-transform: translateY(50px) ;
+    -o-transform: translateY(50px) ;
+}
